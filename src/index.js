@@ -5,6 +5,10 @@ let button= document.getElementById("validar");
 button.addEventListener("click" , function () {
     const numeroTarjeta = document.getElementById("numero-tarjeta").value;
     alert(numeroTarjeta);
+
+let revesTarjeta = numeroTarjeta.split("").reverse().join("");
+document.getElementById("revesTarjeta").innerHTML = revesTarjeta;
+     alert (revesTarjeta);
 });
 
 //const string = "4,3,4,9,5,6,5,2,0,2,5,8,0,8,9,4";
