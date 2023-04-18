@@ -15,5 +15,12 @@ html {
     font-size: 25px;
   }
   button {
-    background-color: #df2a12;
+    background-color: #736be3;
+    font-size: 25px;
+  }
+  input {
+    font-size: 30px;
+  }
+  div {
+    font-size: 25px;
   }
