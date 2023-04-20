@@ -27,7 +27,8 @@ par se les debe multiplicar por dos, si este número es mayor o igual a 10,
 debemos sumar los dígitos del resultado; el número a verificar será válido si
 la suma de sus dígitos finales es un múltiplo de 10.
 
-![gráfica de algoritmo de Luhn](https://user-images.githubusercontent.com/12631491/217016579-865679e0-0949-4afd-b13f-d2ebba7a0c54.png)
+![gráfica de algoritmo de Luhn]
+
 
 ## 2. Resumen del proyecto
 
@@ -461,7 +462,7 @@ Project Feedback:
 
 
 
-rescusros usados:
+recursos usados:
 https://developer.mozilla.org/es/docs/Web/HTML/Element/input#
 https://developer.mozilla.org/es/docs/Web/JavaScript/Reference/Global_Objects/Array/map
 https://developer.mozilla.org/es/docs/Web/JavaScript/Reference/Global_Objects/Array/reverse
