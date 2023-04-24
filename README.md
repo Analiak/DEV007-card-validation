@@ -15,7 +15,7 @@
 ***
 ## LAMA ACCESORIOS:
 ### Images:
-![](https://DEV007/-card-validation/images/lama.jpg)
+![](https://./lama.jpg)
 Lama accesorios es una aplicación web para realizar la compra de regalos y accesorios de manera online.
 Es una tienda virtual. Por lo tanto necesita validar tu medio de pago.
 Para poder realizar tu compra es muy importante corroborar si tu tarjeta de crédito es válida.
