@@ -14,8 +14,6 @@
 
 ***
 ## LAMA ACCESORIOS:
-### Images:
-![](https://./lama.jpg)
 Lama accesorios es una aplicación web para realizar la compra de regalos y accesorios de manera online.
 Es una tienda virtual. Por lo tanto necesita validar tu medio de pago.
 Para poder realizar tu compra es muy importante corroborar si tu tarjeta de crédito es válida.
@@ -469,18 +467,4 @@ Project Feedback:
 * [ ] El proyecto será entregado subiendo tu código a GitHub.
 * [ ] La interfaz será "desplegada" usando GitHub Pages.
 * [ ] El README contiene una definición del producto.
-
-
-
-recursos usados:
-https://developer.mozilla.org/es/docs/Web/HTML/Element/input#
-https://developer.mozilla.org/es/docs/Web/JavaScript/Reference/Global_Objects/Array/map
-https://developer.mozilla.org/es/docs/Web/JavaScript/Reference/Global_Objects/Array/reverse
-https://developer.mozilla.org/es/docs/Web/JavaScript/Reference/Global_Objects/String
-https://developer.mozilla.org/en-US/docs/Web/API/Document/getElementById
-https://developer.mozilla.org/es/docs/Web/JavaScript/Reference/Global_Objects/String/split
-https://javascript.espaciolatino.com/dhtml/el_dom.htm
-https://curriculum.laboratoria.la/es/topics/browser/dom/1-dom-methods-selection
-https://curriculum.laboratoria.la/es/topics/javascript/strings/strings
-https://es.stackoverflow.com/questions/384735/c%C3%B3mo-obtener-los-n%C3%BAmeros-en-posici%C3%B3n-par-dentro-de-un-array-y-ordenarlo-ascende
 
