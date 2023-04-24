@@ -110,6 +110,7 @@ Con estos requisitos cumplidos puedes
 ## Recursos usados: 
 array. trunc():
 https://developer.mozilla.org/es/docs/Web/JavaScript/Reference/Global_Objects/Math/trunc
+
 array.map:
 https://www.freecodecamp.org/espanol/news/tutorial-de-arraymap-de-javascript-como-iterar-a-atraves-de-elementos-en-un-arreglo-con-map/
 
