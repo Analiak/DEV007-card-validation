@@ -1,12 +1,12 @@
 const validator = {
   isValid: function(numeroTarjeta){
-    let arrayNumTarjeta = numeroTarjeta.split("");
-    let arrayRevesTarjeta = numeroTarjeta.split("").reverse();
+    const arrayNumTarjeta = numeroTarjeta.split("");
+    const arrayRevesTarjeta = numeroTarjeta.split("").reverse();
     console.log('numero tarjeta original', numeroTarjeta);
     console.log('array num tarjeta', arrayNumTarjeta);
     console.log('array invertido', arrayRevesTarjeta);
     console.log(arrayRevesTarjeta[3]);
-    let arrayFinal = arrayRevesTarjeta.map(function(x, index){
+    const arrayFinal = arrayRevesTarjeta.map(function(x, index){
       if(index % 2 === 1){
         const resultado = x * 2;
         if(resultado >= 10){
@@ -29,7 +29,7 @@ const validator = {
       
     console.log("resultado de la suma es ", suma);
 
-    if (suma % 10 == 0){
+    if (suma % 10 === 0){
       console.log ("Su tarjeta es válida");
       return true;
     } else {
@@ -44,10 +44,7 @@ const validator = {
   }
 };
 
-
-
-  //aca se hace la logica del proyecto
-  //creé los métodos isValid y maskify,con split convierte el string en array y con reverse devuelve un string reversado.
-
+//aca se hace la logica del proyecto
+//creé los métodos isValid y maskify,con split convierte el string en array y con reverse devuelve un string reversado.
 
 export default validator;

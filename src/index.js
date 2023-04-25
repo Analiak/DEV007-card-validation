@@ -6,9 +6,9 @@ const button= document.getElementById("validar");
 button.addEventListener("click" , function () {
   const numeroTarjeta = document.getElementById("numero-tarjeta").value;
   if (validator.isValid(numeroTarjeta) ){
-        document.getElementById("numero-tarjeta").value = validator.maskify(numeroTarjeta);
-        alert ("Su tarjeta es válida");
+    document.getElementById("numero-tarjeta").value = validator.maskify(numeroTarjeta);
+    alert ("Su tarjeta es válida");
   } else {
-        alert ("Su tarjeta es inválida");
+    alert ("Su tarjeta es inválida");
   }
 });
