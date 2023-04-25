@@ -6,7 +6,7 @@
 Lama accesorios es una aplicación web para realizar la compra de regalos y accesorios de manera online.
 Es una tienda virtual. Por lo tanto necesita validar tu medio de pago.
 Para poder realizar tu compra es muy importante corroborar si tu tarjeta de crédito es válida.
-Para ello nos guiamos por el Algoritmo de Lhum. Este algoritmo sigue una serie de pasos que nos lleva finalmente a poder validar si tu tarjeta de crédito es válida o no, (como se detalla en el siguiente punto). En este caso también utilizamos un método que se llama maskify, el cual logra enmascarar los números de tu tarjeta siempre y cuando esta sea válida.
+Para ello nos guiamos por el Algoritmo de Lhum. Este algoritmo sigue una serie de pasos que nos lleva finalmente a poder determinar si tu tarjeta de crédito es válida o no, (como se detalla en el siguiente punto). En este caso también utilizamos un método que se llama maskify, el cual logra enmascarar los números de tu tarjeta siempre y cuando esta sea válida.
 
 ## como lo hice:
 Primero que nada fué dividir el hito en tareas muy pequeñas. Por ejemplo: empezar con html, crear el input y el botón de validar. Luego crear en el objeto validator los métodos isValid y maskify. Lo siguiente fué empezar por entender el algoritmo de Lhum para despúes empezar a poner la lógica en js. 
