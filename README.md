@@ -34,7 +34,7 @@ debemos sumar los dígitos del resultado; el número a verificar será válido s
 la suma de sus dígitos finales es un múltiplo de 10.
 
 ### Imagen:
-![](https://./images/algoritmo de lhum.png)
+![](./images/algoritmo-de-lhum.png)
 
 
 ## 2. Resumen del proyecto
