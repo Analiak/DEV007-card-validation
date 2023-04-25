@@ -111,7 +111,12 @@ https://www.freecodecamp.org/espanol/news/tutorial-de-arraymap-de-javascript-com
 parseint():
 https://developer.mozilla.org/es/docs/Web/JavaScript/Reference/Global_Objects/parseInt
 
-https://developer.mozilla.org/es/docs/Web/HTML/Element/input# https://developer.mozilla.org/es/docs/Web/JavaScript/Reference/Global_Objects/Array/map https://developer.mozilla.org/es/docs/Web/JavaScript/Reference/Global_Objects/Array/reverse https://developer.mozilla.org/es/docs/Web/JavaScript/Reference/Global_Objects/String https://developer.mozilla.org/en-US/docs/Web/API/Document/getElementById https://developer.mozilla.org/es/docs/Web/JavaScript/Reference/Global_Objects/String/split https://javascript.espaciolatino.com/dhtml/el_dom.htm https://curriculum.laboratoria.la/es/topics/browser/dom/1-dom-methods-selection https://curriculum.laboratoria.la/es/topics/javascript/strings/strings https://es.stackoverflow.com/questions/384735/c%C3%B3mo-obtener-los-n%C3%BAmeros-en-posici%C3%B3n-par-dentro-de-un-array-y-ordenarlo-ascende
+https://developer.mozilla.org/es/docs/Web/HTML/Element/input# 
+https://developer.mozilla.org/es/docs/Web/JavaScript/Reference/Global_Objects/Array/map https://developer.mozilla.org/es/docs/Web/JavaScript/Reference/Global_Objects/Array/reverse https://developer.mozilla.org/es/docs/Web/JavaScript/Reference/Global_Objects/String
+https://developer.mozilla.org/en-US/docs/Web/API/Document/getElementById https://developer.mozilla.org/es/docs/Web/JavaScript/Reference/Global_Objects/String/split 
+https://javascript.espaciolatino.com/dhtml/el_dom.htm 
+https://curriculum.laboratoria.la/es/topics/browser/dom/1-dom-methods-selection 
+https://curriculum.laboratoria.la/es/topics/javascript/strings/strings 
 
 ## 5. Hito Opcional: Mostrar la franquicia de tarjeta
 
