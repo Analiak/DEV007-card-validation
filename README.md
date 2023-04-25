@@ -33,7 +33,8 @@ par se les debe multiplicar por dos, si este número es mayor o igual a 10,
 debemos sumar los dígitos del resultado; el número a verificar será válido si
 la suma de sus dígitos finales es un múltiplo de 10.
 
-![gráfica de algoritmo de Luhn]
+### Imagen:
+![](https://./images/algoritmo de lhum.png)
 
 
 ## 2. Resumen del proyecto
