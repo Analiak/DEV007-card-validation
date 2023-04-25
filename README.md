@@ -14,11 +14,6 @@
 
 ***
 ## LAMA ACCESORIOS:
-###Images
-
-Image:
-
-![]https://www.google.com/search?q=llama&sxsrf=APwXEdeP_oJ3xbyAFkVejKp-OVr-dWDL3Q:1682370553725&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjk1vDZtsP-AhVeAbkGHe1uCdsQ_AUoAXoECAEQAw&biw=1745&bih=891&dpr=1.1#imgrc=HiTO3wIp9uclNM
 
 Lama accesorios es una aplicación web para realizar la compra de regalos y accesorios de manera online.
 Es una tienda virtual. Por lo tanto necesita validar tu medio de pago.
