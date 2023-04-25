@@ -1,17 +1,5 @@
 # Tarjeta de crédito válida
 
-## Índice
-
-* [1. Preámbulo](#1-preámbulo)
-* [2. Resumen del proyecto](#2-resumen-del-proyecto)
-* [3. Consideraciones generales](#3-consideraciones-generales)
-* [4. Hito: Criterios de aceptación mínimos del proyecto](#4-hito-criterios-de-aceptación-mínimos-del-proyecto)
-* [5. Hito Opcional: Mostrar la franquicia de tarjeta](#5-hito-opcional-mostrar-la-franquicia-de-tarjeta)
-* [6. Consideraciones técnicas](#6-consideraciones-técnicas)
-* [7. Objetivos de aprendizaje](#7-objetivos-de-aprendizaje)
-* [8. Pistas, tips y lecturas complementarias](#8-pistas-tips-y-lecturas-complementarias)
-* [9. Para considerar Project Feedback](#9-para-considerar-project-feedback)
-
 ***
 ## LAMA ACCESORIOS:
 
@@ -19,6 +7,10 @@ Lama accesorios es una aplicación web para realizar la compra de regalos y acce
 Es una tienda virtual. Por lo tanto necesita validar tu medio de pago.
 Para poder realizar tu compra es muy importante corroborar si tu tarjeta de crédito es válida.
 Para ello nos guiamos por el Algoritmo de Lhum. Este algoritmo sigue una serie de pasos que nos lleva finalmente a poder validar si tu tarjeta de crédito es válida o no, (como se detalla en el siguiente punto). En este caso también utilizamos un método que se llama maskify, el cual logra enmascarar los números de tu tarjeta siempre y cuando esta sea válida.
+
+## como lo hice:
+Primero que nada fué dividir el hito en tareas muy pequeñas. Por ejemplo: empezar con html, crear el input y el botón de validar. Luego crear en el objeto validator los métodos isValid y maskify. Lo siguiente fué empezar por entender el algoritmo de Lhum para despúes empezar a poner la lógica en js. 
+Ir entendiendo que hace cada cosa también fué muy importante. Probar varias cosas también hasta que finalmente fué fluyendo.
 
 ## 1. Preámbulo
 
